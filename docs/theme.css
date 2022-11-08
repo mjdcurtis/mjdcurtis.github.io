@@ -1,0 +1,86 @@
+
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   Distill theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+/* This must remain at the top of this file.                 */
+
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+html {
+  /*-- Main font sizes --*/
+  --title-size:      50px;
+  --body-size:       1.06rem;
+  --code-size:       14px;
+  --aside-size:      14px;
+  --fig-cap-size:    14px;
+  /*-- Main font colors --*/
+  --title-color:     black;
+  --header-color:    black;
+  --body-color:      black;
+  --aside-color:     black;
+  --fig-cap-color:   black;
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:   "Noto Sans", sans-serif;
+  --mono-font:      "Noto Sans", sans-serif;
+  --body-font:      "Noto Sans", sans-serif;
+  --navbar-font:    "Noto Sans", sans-serif;  /* websites + blogs only */
+}
+
+/*-- ARTICLE METADATA --*/
+d-byline {
+  --heading-size:    0.6rem;
+  --heading-color:   white;
+  --body-size:       0.8rem;
+  --body-color:      white;
+}
+
+/*-- ARTICLE TABLE OF CONTENTS --*/
+.d-contents {
+  --heading-size:    18px;
+  --contents-size:   15px;
+}
+
+/*-- ARTICLE APPENDIX --*/
+d-appendix {
+  --heading-size:    15px;
+  --heading-color:   white;
+  --text-size:       0.8em;
+  --text-color:      black;
+}
+
+/*-- WEBSITE HEADER + FOOTER --*/
+/* These properties only apply to Distill sites and blogs  */
+
+.distill-site-header {
+  --title-size:       18px;
+  --text-color:       black;   
+  --text-size:        15px;
+  --hover-color:      black;
+  --bkgd-color:       white;
+}
+
+
+.distill-site-footer {
+  --text-color:       black;
+  --text-size:        15px;
+  --hover-color:      black;
+  --bkgd-color:       white;
+}
+
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/* Use specific font in the body of the text */
+html, body, p {
+    font-weight: 400;
+    font-size: 14px;
+    /*line-height: 1.3rem; */
+    /*font-style: normal;*/
+}

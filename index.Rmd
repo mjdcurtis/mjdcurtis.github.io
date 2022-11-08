@@ -1,0 +1,51 @@
+---
+title: "Matthew Curtis"
+
+
+
+description: |
+ 
+ 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+  
+```
+
+```
+```
+```
+```
+
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 100px; "}
+
+::: {}
+Hello!
+
+I'm a Postdoc at ECARES at the Université libre de Bruxelles since Fall 2021. I got my PhD in Economics at the University of California, Davis.
+
+My research interests are in economic history, demography, labor economics, and economic development.
+
+Contact me at matthew.curtis@ulb.be
+
+
+:::
+
+::: {}
+
+```{r,echo=FALSE} 
+  knitr::include_graphics("images/matt-curtis.png",dpi=72)
+```
+:::
+
+::::
+
