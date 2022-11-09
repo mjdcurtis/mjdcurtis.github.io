@@ -1,7 +1,7 @@
 name: "Matthew Curtis"
 title: "Matthew Curtis"
 description: |
-  Matthew Curtis A
+  Matthew Curtis 
 output_dir: "docs"
 
 theme: theme.css
@@ -9,6 +9,8 @@ navbar:
   search: false
   right:
     - text: "Home"
+      href: index.html
+    - text: "Research"
       href: index.html
     - text: "CV"
       href: https://www.mjdcurtis.com/cv-matt-curtis.pdf
