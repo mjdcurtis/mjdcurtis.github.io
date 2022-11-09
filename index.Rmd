@@ -42,8 +42,8 @@ Contact me at matthew.curtis@ulb.be
 
 ::: {}
 
-```{r,echo=FALSE} 
-  knitr::include_graphics("images/matt-curtis2.png",dpi=72)
+```{r} 
+  knitr::include_graphics("images/matt-curtis.png",dpi=72)
 ```
 :::
 
