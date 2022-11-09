@@ -29,7 +29,7 @@ d-title {
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 50px; "}
 
 ::: {}
-Hello! Test
+Hello! 
 
 I'm a Postdoc at ECARES at the Université libre de Bruxelles since Fall 2021. I got my PhD in Economics at the University of California, Davis.
 
