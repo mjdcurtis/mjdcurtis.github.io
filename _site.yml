@@ -11,7 +11,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: index.html
+      href: research.html
     - text: "CV"
       href: ./pdfs/cv-matt-curtis.pdf
 output: distill::distill_article

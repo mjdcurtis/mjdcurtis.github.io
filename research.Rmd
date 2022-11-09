@@ -1,0 +1,44 @@
+---
+title: "Matthew Curtis"
+
+
+
+description: |
+ 
+ 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+  
+```
+::: {}
+### Publications
+**Twins Support the Absence of Parity-Dependent Fertility Control in Pretransition Populations**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+Demography (2020). [Link.](https://doi.org/10.1007/s13524-020-00898-0)
+
+### Working Papers
+
+**The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+CEPR working paper, submitted.  [Link](https://hub.cepr.org/published-discussion-paper/139739). 
+
+**How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+CEPR working paper, submitted.  [Link](https://hub.cepr.org/published-discussion-paper/170950).
+  
+**Three New Occupational Status Indices for England and Wales, 1800--1939**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+CEPR working paper, submitted.  [Link](./pdfs/ccc-occupational-indices.pdf). Data [part 1](http://neilcummins.com/hisco-rcii-scores.csv) and [part 2](http://neilcummins.com/AppendixA2.csv),
+
+**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com). SSRN working paper, submitted. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210269).
+
+::: 
