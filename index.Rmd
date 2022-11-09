@@ -29,11 +29,10 @@ d-title {
 ```
 ```
 <!--- https://rfortherestofus.com/2021/11/multicolumn/ --->
-:::: {class='fluid-row'}
 
+:::::: {class='row'}
 
 ::: {class='col-md-6'}
-
 ```{r} 
   knitr::include_graphics("images/matt-curtis.png",dpi=72)
 ```
@@ -47,8 +46,7 @@ I'm a Postdoc at ECARES at the Université libre de Bruxelles since Fall 2021. I
 My research interests are in economic history, demography, labor economics, and economic development.
 
 Contact me at matthew.curtis@ulb.be
-
 :::
+:::::: 
 
-::::
 
