@@ -9,6 +9,10 @@ description: |
 site: distill::distill_website
 ---
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -28,11 +32,10 @@ d-title {
 :::: {class='fluid-row'}
 
 
-
 ::: {class='col-md-6'}
 
 ```{r} 
-  knitr::include_graphics("images/matt-curtis2.png",dpi=72)
+  knitr::include_graphics("images/matt-curtis.png",dpi=72)
 ```
 :::
 
