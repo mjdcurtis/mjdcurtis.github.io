@@ -23,22 +23,32 @@ d-title {
 ### Publications
 **Twins Support the Absence of Parity-Dependent Fertility Control in Pretransition Populations**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-Demography (2020). [Link.](https://doi.org/10.1007/s13524-020-00898-0)
+Demography (2020). [PDF](./pdfs/ccc-twins.pdf). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
 
-### Working Papers
+### Job market Paper
+
+**The Her in Inheritance: How Marriage Sorting Has Always Mattered, Quebec 1800–1970**. PDF.
+
+### Under consideration 
 
 **The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
+
+**Three New Occupational Status Indices for England and Wales, 1800--1939**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR discussion paper DP17346, submitted.  [Link](https://cepr.org/publications/dp17346). 
+CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). Data [part 1](http://neilcummins.com/hisco-rcii-scores.csv) and [part 2](http://neilcummins.com/AppendixA2.csv).
 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR discussion paper DP17475, submitted.  [Link](https://cepr.org/publications/dp17475).
-  
-**Three New Occupational Status Indices for England and Wales, 1800--1939**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR working paper, submitted.  [Link](./pdfs/ccc-occupational-indices.pdf). Data [part 1](http://neilcummins.com/hisco-rcii-scores.csv) and [part 2](http://neilcummins.com/AppendixA2.csv),
+[Draft PDF](./pdfs/ccc-emp-draft.pdf). CEPR discussion paper DP17475  [CEPR link](https://cepr.org/publications/dp17475).
 
-**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com). SSRN working paper, submitted. [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210269).
+**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com). SSRN working paper [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf). [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210269).
 
+**The Expansion of Public Education in Puerto Rico after 1900** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com). Prepared for the book ``Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean'', edited by Felipe Valencia-Caicedo. [PDF](curtis-uribecastro-pr-edu-draft.pdf).
+
+### Working papers
+
+### Works in progress
+***Inheritance Customs, the European Marriage Pattern, and Female Empowerment*** with [Paula Gobbi](https://sites.google.com/site/gobbipaula/), [Marc Goñi](https://sites.google.com/site/marcgonitrafach/), and [Joanne Haddad](https://sites.google.com/view/joannehaddad/). Funded by ERC Starting Grant 947654, IDED, granted to Paula Gobbi
+### Other
 ::: 
