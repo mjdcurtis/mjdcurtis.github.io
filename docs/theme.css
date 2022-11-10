@@ -15,11 +15,11 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
-  --body-size:       1.06rem;
-  --code-size:       14px;
-  --aside-size:      14px;
-  --fig-cap-size:    14px;
+  /*--title-size:      50px;
+  --body-size:       12px;
+  --code-size:       12px;
+  --aside-size:      12px;
+  --fig-cap-size:    12px;*/
   /*-- Main font colors --*/
   --title-color:     black;
   --header-color:    black;
@@ -32,27 +32,33 @@ html {
   --body-font:      "Noto Sans", sans-serif;
   --navbar-font:    "Noto Sans", sans-serif;  /* websites + blogs only */
 }
-
+d-title {
+    display: none;
+}
 /*-- ARTICLE METADATA --*/
 d-byline {
+  /*
   --heading-size:    0.6rem;
   --heading-color:   white;
   --body-size:       0.8rem;
-  --body-color:      white;
+  --body-color:      white; */
+   display: none;
 }
 
 /*-- ARTICLE TABLE OF CONTENTS --*/
-.d-contents {
-  --heading-size:    18px;
-  --contents-size:   15px;
+.d-contents { /*  --heading-size:    18px;
+  --contents-size:   15px; */
+    display: none;
 }
 
 /*-- ARTICLE APPENDIX --*/
 d-appendix {
+  /*
   --heading-size:    15px;
   --heading-color:   white;
   --text-size:       0.8em;
-  --text-color:      black;
+  --text-color:      black; */
+    display: none;
 }
 
 /*-- WEBSITE HEADER + FOOTER --*/
@@ -72,6 +78,8 @@ d-appendix {
   --text-size:        15px;
   --hover-color:      black;
   --bkgd-color:       white;
+    border-bottom: 0;
+       display: none;
 }
 
 /*-- Additional custom styles --*/
@@ -81,6 +89,7 @@ d-appendix {
 html, body, p {
     font-weight: 400;
     font-size: 14px;
-    /*line-height: 1.3rem; */
-    /*font-style: normal;*/
 }
+
+$grid-gutter-width: 15px !default;
+

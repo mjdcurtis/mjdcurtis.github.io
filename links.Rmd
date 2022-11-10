@@ -14,19 +14,22 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{css}
-d-title {
-    display: none;
-  }
-  
+
+d-content {
+  display: none;
+}
+d-appendix {
+  display: none;
+}
 ```
 
 ```
 ```
 
 ::: {}
-[Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/), [Neil Cummins](http://neilcummins.com/), and I have created new occupational status indices for England and Wales. The first index uses the RCII method used by [HISCAM](http://www.camsis.stir.ac.uk/hiscam/) and is avaliable for [HISCO codes](https://historyofwork.iisg.nl/) and our own occupational coding scheme. The second index is the first principle component of several measures of socioeconomic status and is avaliable for our own occupational coding scheme. [HISCO scores](http://neilcummins.com/hisco-rcii-scores.csv). Our own occupational coding scheme [scores](http://neilcummins.com/AppendixA2.csv).
+[Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/), [Neil Cummins](http://neilcummins.com/), and I have created new occupational status indices for England and Wales. The first index is based on the RCII method used by [HISCAM](http://www.camsis.stir.ac.uk/hiscam/) and is available for [HISCO codes](https://historyofwork.iisg.nl/) and our own occupational coding scheme. The second index is the first principle component of several measures of socioeconomic status and is available for our own occupational coding scheme. The scores for HISCO are [here](http://neilcummins.com/hisco-rcii-scores.csv). The scores for our own occupational coding scheme are [here](http://neilcummins.com/AppendixA2.csv).
 
-To compute the RCII scores, I wrote some [R code](./code/rc2.zip) that is much faster than the previously existing Stata code (using the amazing [fixest](https://lrberge.github.io/fixest/) package!)
+To compute the RCII scores above, I wrote some [R code](./code/rc2.zip) that is much faster than the previously existing Stata code (using the amazing [fixest](https://lrberge.github.io/fixest/) package.)
 
 I wrote [.ado files](https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7VkrLw/view) for the ABE record linkage algorithm with [Katherine Eriksson](http://kaeriksson.ucdavis.edu/).
 

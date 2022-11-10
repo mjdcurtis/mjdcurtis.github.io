@@ -1906,11 +1906,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      14px;
-    --fig-cap-size:    14px;
+    /*--title-size:      50px;
+    --body-size:       12px;
+    --code-size:       12px;
+    --aside-size:      12px;
+    --fig-cap-size:    12px;*/
     /*-- Main font colors --*/
     --title-color:     black;
     --header-color:    black;
@@ -1923,27 +1923,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --body-font:      "Noto Sans", sans-serif;
     --navbar-font:    "Noto Sans", sans-serif;  /* websites + blogs only */
   }
-
+  d-title {
+      display: none;
+  }
   /*-- ARTICLE METADATA --*/
   d-byline {
+    /*
     --heading-size:    0.6rem;
     --heading-color:   white;
     --body-size:       0.8rem;
-    --body-color:      white;
+    --body-color:      white; */
+     display: none;
   }
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   15px;
+  .d-contents { /*  --heading-size:    18px;
+    --contents-size:   15px; */
+      display: none;
   }
 
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
+    /*
     --heading-size:    15px;
     --heading-color:   white;
     --text-size:       0.8em;
-    --text-color:      black;
+    --text-color:      black; */
+      display: none;
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -1963,6 +1969,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
+      border-bottom: 0;
+         display: none;
   }
 
   /*-- Additional custom styles --*/
@@ -1972,9 +1980,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   html, body, p {
       font-weight: 400;
       font-size: 14px;
-      /*line-height: 1.3rem; */
-      /*font-style: normal;*/
-  }</style>
+  }
+
+  $grid-gutter-width: 15px !default;
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2184,16 +2193,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="d-article">
 <div class="layout-chunk" data-layout="l-body">
 <style type="text/css">
-d-title {
-    display: none;
-  }
-  
+
+d-content {
+  display: none;
+}
+d-appendix {
+  display: none;
+}
 </style>
 </div>
 <pre><code></code></pre>
 <div>
-<p><a href="http://faculty.econ.ucdavis.edu/faculty/gclark/">Gregory Clark</a>, <a href="http://neilcummins.com/">Neil Cummins</a>, and I have created new occupational status indices for England and Wales. The first index uses the RCII method used by <a href="http://www.camsis.stir.ac.uk/hiscam/">HISCAM</a> and is avaliable for <a href="https://historyofwork.iisg.nl/">HISCO codes</a> and our own occupational coding scheme. The second index is the first principle component of several measures of socioeconomic status and is avaliable for our own occupational coding scheme. <a href="http://neilcummins.com/hisco-rcii-scores.csv">HISCO scores</a>. Our own occupational coding scheme <a href="http://neilcummins.com/AppendixA2.csv">scores</a>.</p>
-<p>To compute the RCII scores, I wrote some <a href="./code/rc2.zip">R code</a> that is much faster than the previously existing Stata code (using the amazing <a href="https://lrberge.github.io/fixest/">fixest</a> package!)</p>
+<p><a href="http://faculty.econ.ucdavis.edu/faculty/gclark/">Gregory Clark</a>, <a href="http://neilcummins.com/">Neil Cummins</a>, and I have created new occupational status indices for England and Wales. The first index is based on the RCII method used by <a href="http://www.camsis.stir.ac.uk/hiscam/">HISCAM</a> and is available for <a href="https://historyofwork.iisg.nl/">HISCO codes</a> and our own occupational coding scheme. The second index is the first principle component of several measures of socioeconomic status and is available for our own occupational coding scheme. The scores for HISCO are <a href="http://neilcummins.com/hisco-rcii-scores.csv">here</a>. The scores for our own occupational coding scheme are <a href="http://neilcummins.com/AppendixA2.csv">here</a>.</p>
+<p>To compute the RCII scores above, I wrote some <a href="./code/rc2.zip">R code</a> that is much faster than the previously existing Stata code (using the amazing <a href="https://lrberge.github.io/fixest/">fixest</a> package.)</p>
 <p>I wrote <a href="https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7VkrLw/view">.ado files</a> for the ABE record linkage algorithm with <a href="http://kaeriksson.ucdavis.edu/">Katherine Eriksson</a>.</p>
 <p>I manage the <a href="https://gpih.ucdavis.edu/">Global Price and Income History Group website</a> with Peter Lindert.</p>
 <p>I wrote the <a href="https://data.nber.org/data-appendix/c13427/appendix.pdf">Data Appendix</a> for <strong>Labor Market Polarization Over the Business Cycle</strong> with Christopher Foote and Rich Ryan in 2014.</p>

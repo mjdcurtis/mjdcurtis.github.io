@@ -1909,11 +1909,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      14px;
-    --fig-cap-size:    14px;
+    /*--title-size:      50px;
+    --body-size:       12px;
+    --code-size:       12px;
+    --aside-size:      12px;
+    --fig-cap-size:    12px;*/
     /*-- Main font colors --*/
     --title-color:     black;
     --header-color:    black;
@@ -1926,27 +1926,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --body-font:      "Noto Sans", sans-serif;
     --navbar-font:    "Noto Sans", sans-serif;  /* websites + blogs only */
   }
-
+  d-title {
+      display: none;
+  }
   /*-- ARTICLE METADATA --*/
   d-byline {
+    /*
     --heading-size:    0.6rem;
     --heading-color:   white;
     --body-size:       0.8rem;
-    --body-color:      white;
+    --body-color:      white; */
+     display: none;
   }
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   15px;
+  .d-contents { /*  --heading-size:    18px;
+    --contents-size:   15px; */
+      display: none;
   }
 
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
+    /*
     --heading-size:    15px;
     --heading-color:   white;
     --text-size:       0.8em;
-    --text-color:      black;
+    --text-color:      black; */
+      display: none;
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -1966,6 +1972,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
+      border-bottom: 0;
+         display: none;
   }
 
   /*-- Additional custom styles --*/
@@ -1975,9 +1983,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   html, body, p {
       font-weight: 400;
       font-size: 14px;
-      /*line-height: 1.3rem; */
-      /*font-style: normal;*/
-  }</style>
+  }
+
+  $grid-gutter-width: 15px !default;
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2165,8 +2174,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="research.html">Research</a>
 <a href="./pdfs/cv-matt-curtis.pdf">CV</a>
+<a href="research.html">Research</a>
+<a href="links.html">Links, code, and data</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>

@@ -1906,11 +1906,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
   html {
     /*-- Main font sizes --*/
-    --title-size:      50px;
-    --body-size:       1.06rem;
-    --code-size:       14px;
-    --aside-size:      14px;
-    --fig-cap-size:    14px;
+    /*--title-size:      50px;
+    --body-size:       12px;
+    --code-size:       12px;
+    --aside-size:      12px;
+    --fig-cap-size:    12px;*/
     /*-- Main font colors --*/
     --title-color:     black;
     --header-color:    black;
@@ -1923,27 +1923,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --body-font:      "Noto Sans", sans-serif;
     --navbar-font:    "Noto Sans", sans-serif;  /* websites + blogs only */
   }
-
+  d-title {
+      display: none;
+  }
   /*-- ARTICLE METADATA --*/
   d-byline {
+    /*
     --heading-size:    0.6rem;
     --heading-color:   white;
     --body-size:       0.8rem;
-    --body-color:      white;
+    --body-color:      white; */
+     display: none;
   }
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   15px;
+  .d-contents { /*  --heading-size:    18px;
+    --contents-size:   15px; */
+      display: none;
   }
 
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
+    /*
     --heading-size:    15px;
     --heading-color:   white;
     --text-size:       0.8em;
-    --text-color:      black;
+    --text-color:      black; */
+      display: none;
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -1963,6 +1969,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-size:        15px;
     --hover-color:      black;
     --bkgd-color:       white;
+      border-bottom: 0;
+         display: none;
   }
 
   /*-- Additional custom styles --*/
@@ -1972,9 +1980,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   html, body, p {
       font-weight: 400;
       font-size: 14px;
-      /*line-height: 1.3rem; */
-      /*font-style: normal;*/
-  }</style>
+  }
+
+  $grid-gutter-width: 15px !default;
+  </style>
   <style type="text/css">
   /* base style */
 
@@ -2207,7 +2216,7 @@ CEPR working paper. <a href="./pdfs/ccc-occupational-indices-draft.pdf">Draft PD
 with <a href="http://faculty.econ.ucdavis.edu/faculty/gclark/">Gregory Clark</a> and <a href="http://neilcummins.com/">Neil Cummins</a>.
 <a href="./pdfs/ccc-emp-draft.pdf">Draft PDF</a>. CEPR discussion paper DP17475 <a href="https://cepr.org/publications/dp17475">CEPR link</a>.</p>
 <p><strong>Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848</strong> with <a href="https://vincentgeloso.com">Vincent Geloso</a>. SSRN working paper <a href="./pdfs/curtis-geloso-crisis-draft.pdf">Draft PDF</a>. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210269">SSRN link</a>.</p>
-<p><strong>The Expansion of Public Education in Puerto Rico after 1900</strong> with <a href="https://uribecastro.wordpress.com">Mateo Uribe-Castro</a>. Prepared for the book ``Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean’’, edited by Felipe Valencia-Caicedo. <a href="curtis-uribecastro-pr-edu-draft.pdf">PDF</a>.</p>
+<p><strong>The Expansion of Public Education in Puerto Rico after 1900</strong> with <a href="https://uribecastro.wordpress.com">Mateo Uribe-Castro</a>. Prepared for the book “Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean,” edited by Felipe Valencia-Caicedo. <a href="curtis-uribecastro-pr-edu-draft.pdf">PDF</a>.</p>
 <h3 id="working-papers">Working papers</h3>
 <p>Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec</p>
 <h3 id="works-in-progress">Works in progress</h3>
