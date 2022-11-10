@@ -32,13 +32,14 @@ d-title {
 
 :::::: {class='row'}
 
-::: {class='col-md-6'}
+::: {class='col-md-5'}
 ```{r} 
-  knitr::include_graphics("images/matt-curtis2.png",dpi=72)
+  knitr::include_graphics("images/matt-curtis.png",dpi=72)
 ```
 :::
-
-::: {class='col-md-6'}
+::: {class='col-md-2'}
+:::
+::: {class='col-md-5'}
 Hello! 
 
 I'm a Postdoc at ECARES at the Université libre de Bruxelles since Fall 2021. I got my PhD in Economics at the University of California, Davis.
