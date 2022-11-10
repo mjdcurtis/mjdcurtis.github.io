@@ -1,0 +1,38 @@
+---
+title: "Matthew Curtis"
+
+
+
+description: |
+ 
+ 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+    display: none;
+  }
+  
+```
+
+```
+```
+
+::: {}
+[Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/), [Neil Cummins](http://neilcummins.com/), and I have created new occupational status indices for England and Wales. The first index uses the RCII method used by [HISCAM](http://www.camsis.stir.ac.uk/hiscam/) and is avaliable for [HISCO codes](https://historyofwork.iisg.nl/) and our own occupational coding scheme. The second index is the first principle component of several measures of socioeconomic status and is avaliable for our own occupational coding scheme. [HISCO scores](http://neilcummins.com/hisco-rcii-scores.csv). Our own occupational coding scheme [scores](http://neilcummins.com/AppendixA2.csv).
+
+To compute the RCII scores, I wrote some [R code](./code/rc2.zip) that is much faster than the previously existing Stata code (using the amazing [fixest](https://lrberge.github.io/fixest/) package!)
+
+I wrote [.ado files](https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7VkrLw/view) for the ABE record linkage algorithm with [Katherine Eriksson](http://kaeriksson.ucdavis.edu/).
+
+I manage the [Global Price and Income History Group website](https://gpih.ucdavis.edu/) with Peter Lindert.
+
+I wrote the [Data Appendix](https://data.nber.org/data-appendix/c13427/appendix.pdf)  for **Labor Market Polarization Over the Business Cycle** with Christopher Foote and Rich Ryan in 2014.
+
+This website was created using [Distill for R Markdown](https://rstudio.github.io/distill/) and GitHub Pages.
+::: 
