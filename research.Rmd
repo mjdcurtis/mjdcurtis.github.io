@@ -25,11 +25,11 @@ d-title {
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
 Demography (2020). [PDF](./pdfs/ccc-twins.pdf). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
 
-### Job market Paper
+### Job market paper
 
-**The Her in Inheritance: How Marriage Sorting Has Always Mattered, Quebec 1800–1970**. PDF.
+**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**.  [PDF](./pdfs/jmp-matt-curtis.pdf)
 
-### Under consideration 
+### Submitted papers
 
 **The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
@@ -46,16 +46,18 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 
 **The Expansion of Public Education in Puerto Rico after 1900** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com). Prepared for the book "Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean," edited by Felipe Valencia-Caicedo. [PDF](curtis-uribecastro-pr-edu-draft.pdf).
 
-### Working papers
-
-Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec
 
 ### Works in progress
 ***Inheritance Customs, the European Marriage Pattern, and Female Empowerment*** with [Paula Gobbi](https://sites.google.com/site/gobbipaula/), [Marc Goñi](https://sites.google.com/site/marcgonitrafach/), and [Joanne Haddad](https://sites.google.com/view/joannehaddad/). Funded by ERC Starting Grant 947654, IDED, granted to Paula Gobbi
 
 **Resource Curses and Production Functions: Sugar, Coffee, and Schooling in Early 20th Century Puerto Rico** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com).
 
+
+**Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec**
+
 **Treating the filles like a roi? Gender differences in child mortality in Quebec 1620--1850**
+
+
 
 ### Other work
 
