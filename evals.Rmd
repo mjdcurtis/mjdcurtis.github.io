@@ -1,0 +1,50 @@
+---
+title: "Matthew Curtis"
+
+
+
+description: |
+ 
+ 
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title {
+ display: none;
+ }
+ 
+```
+::: {}
+### Associate Instructor
+
+
+World Economic History II, Summer 2019. [PDF](./pdfs/evals/2019-summer-ecn110b.pdf). 
+
+Economic Development, Spring 2021. [PDF](./pdfs/evals/2021-spring-ecn115B.pdf). 
+
+
+
+### Teaching Assistant
+US Econ History I, Fall 2016. [PDF](./pdfs/evals/2016-fall-ecn111a.pdf). 
+
+Poverty and Public Policy, Fall 2017. [PDF](./pdfs/evals/2017-fall-ecn-133y.pdf). 
+
+World Economic History II, Spring 2017. [PDF](./pdfs/evals/2017-spring-ecn110b.pdf). 
+
+US Econ History II, Spring 2018. [PDF](./pdfs/evals/2018-spring-ecn-111b.pdf). 
+
+World Econ History I, Spring 2019. [PDF](./pdfs/evals/2019-spring-ecn110a.pdf). 
+
+History of the US since the 1865, Fall 2019 (Department of History). [PDF](./pdfs/evals/2019-fall-his17b.pdf).  
+
+US Econ History II, Winter 2019. [PDF](./pdfs/evals/2019-winter-ecn111b.pdf). 
+
+US Econ History II, Spring 2020. [PDF](./pdfs/evals/2020-spring-ecn111b.pdf). 
+
+
+::: 
