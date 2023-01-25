@@ -36,7 +36,7 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 
 **Three New Occupational Status Indices for England and Wales, 1800--1939**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.]((http://mjdcurtis.com/links).
+CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.](http://mjdcurtis.com/links).
 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
