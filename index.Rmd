@@ -40,11 +40,11 @@ d-title {
 ::: {class='col-md-6'}
 Hello! 
 
-I am a Postdoc at ECARES at the Université libre de Bruxelles since Fall 2021. I earned my PhD in Economics at the University of California, Davis in 2021.
+I am a Postdoc at the Université catholique de Louvain. I earned my PhD in Economics at the University of California, Davis in 2021. Previously, I've been a Postdoc at ECARES (Université libre de Bruxelles) and a Senior Research Assitant at the Federal Reserve Bank of Boston.
 
 My research interests are in economic history, demography, labor economics, and economic development.
 
-Contact me at matthew.curtis@ulb.be
+Contact me at matthew.curtis@uclouvain.be.
 :::
 :::::: 
 
