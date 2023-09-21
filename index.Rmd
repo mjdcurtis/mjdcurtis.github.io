@@ -40,7 +40,7 @@ d-title {
 ::: {class='col-md-6'}
 Hello! 
 
-I am an econonomic historian and an Assistant Professor at the University of Southern Denmark.
+I am an economic historian and an Assistant Professor at the University of Southern Denmark.
 
 My research uses parish records and genealogical data to study demography and human capital.
 
