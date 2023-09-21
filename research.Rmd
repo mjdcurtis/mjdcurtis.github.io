@@ -25,18 +25,22 @@ d-title {
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
 Demography (2020). [PDF](./pdfs/ccc-twins.pdf). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
 
-### Job market paper
-
-**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. ECARES working paper 2022-38.  [PDF](./pdfs/jmp-matt-curtis.pdf) . [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html).
-
 ### Submitted papers
+
+
+**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. ECARES working paper 2022-38.  [PDF](./pdfs/jmp-matt-curtis.pdf) . [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html). Revise and resubmit at Journal of Economic History.
+
+**Three New Occupational Status Indices for England and Wales, 1800--1939**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.](http://mjdcurtis.com/links). Conditional accept at Historical Methods.
+
+**Seeds of Knowledge: Premodern Scholarship, Academic Fields, and European Growth**
+with [David de la Croix](https://perso.uclouvain.be/david.delacroix/). CEPR discussion paper DP18321, [Draft PDF](./pdfs/knowledge-growth.pdf). [CEPR link](https://cepr.org/publications/dp18321).
 
 **The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
 
-**Three New Occupational Status Indices for England and Wales, 1800--1939**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.](http://mjdcurtis.com/links).
+
 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
