@@ -40,9 +40,12 @@ d-title {
 ::: {class='col-md-6'}
 Hello! 
 
-I am a Postdoc at the Université catholique de Louvain. I earned my PhD in Economics at the University of California, Davis in 2021. Previously, I've been a Postdoc at ECARES (Université libre de Bruxelles) and a Senior Research Assitant at the Federal Reserve Bank of Boston.
+I am an econonomic historian and an Assistant Professor at the University of Southern Denmark.
 
-My research interests are in economic history, demography, labor economics, and economic development.
+My research uses parish records and genealogical data to study demography and human capital.
+
+I earned my PhD in Economics at the University of California, Davis in 2021. Previously, I've been a Postdoc at IRES, Université catholique de Louvain, ECARES, Université libre de Bruxelles, and a Senior Research Assistant at the Federal Reserve Bank of Boston.
+
 
 Contact me at matthew.curtis@uclouvain.be.
 :::
