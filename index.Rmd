@@ -47,7 +47,7 @@ My research uses parish records and genealogical data to study demography and hu
 I earned my PhD in Economics at the University of California, Davis in 2021. Previously, I've been a Postdoc at IRES, Université catholique de Louvain, ECARES, Université libre de Bruxelles, and a Senior Research Assistant at the Federal Reserve Bank of Boston.
 
 
-Contact me at matthew.curtis@uclouvain.be.
+Contact me at <a href="javascript:location='mailto:\u006d\u0061\u0063\u0075\u0040\u0073\u0061\u006d\u002e\u0073\u0064\u0075\u002e\u0064\u006b';void 0"><script type="text/javascript">document.write('\u006d\u0061\u0063\u0075\u0040\u0073\u0061\u006d\u002e\u0073\u0064\u0075\u002e\u0064\u006b')</script></a>
 :::
 :::::: 
 
