@@ -25,14 +25,21 @@ d-title {
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
 Demography (2020). [PDF](./pdfs/ccc-twins.pdf). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
 
-### Submitted papers
-
-
-**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. ECARES working paper 2022-38.  [PDF](./pdfs/jmp-matt-curtis.pdf) . [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html). Revise and resubmit at Journal of Economic History.
+**How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
+[Draft PDF](./pdfs/ccc-emp-draft.pdf), 2024.  Economics and Human Biology. 54, 10 p., 101383.  [CEPR link](https://cepr.org/publications/dp17475).
 
 **Three New Occupational Status Indices for England and Wales, 1800--1939**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.](http://mjdcurtis.com/links). Conditional accept at Historical Methods.
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024. 
+CEPR working paper.  [Draft PDF](./pdfs/ccc-occupational-indices-draft.pdf). [Data avaliable.](http://mjdcurtis.com/links). Historical Methods. 57, 1, p. 41-66.
+
+
+**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. 2025. Accepted at Journal of Economic History. [PDF](./pdfs/jmp-matt-curtis.pdf) . [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html). 
+
+
+**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com), 2024. European Review of Economic History. [DOI]( https://doi.org/10.1093/ereh/heae016).  [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf).
+
+### Submitted papers
 
 **Seeds of Knowledge: Premodern Scholarship, Academic Fields, and European Growth**
 with [David de la Croix](https://perso.uclouvain.be/david.delacroix/). CEPR discussion paper DP18321, [Draft PDF](./pdfs/knowledge-growth.pdf). [CEPR link](https://cepr.org/publications/dp18321).
@@ -42,12 +49,6 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 
 
 
-**How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-[Draft PDF](./pdfs/ccc-emp-draft.pdf). CEPR discussion paper DP17475  [CEPR link](https://cepr.org/publications/dp17475).
-
-**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com). SSRN working paper [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf). [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4210269).
-
 **The Expansion of Public Education in Puerto Rico after 1900** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com). Prepared for the book "Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean," edited by Felipe Valencia-Caicedo. [PDF](curtis-uribecastro-pr-edu-draft.pdf).
 
 
@@ -55,13 +56,7 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 ***Inheritance Customs, the European Marriage Pattern, and Female Empowerment*** with [Paula Gobbi](https://sites.google.com/site/gobbipaula/), [Marc Goñi](https://sites.google.com/site/marcgonitrafach/), and [Joanne Haddad](https://sites.google.com/view/joannehaddad/). 
 [Draft PDF](./pdfs/cggh-draft.pdf).  Funded by ERC Starting Grant 947654, IDED, granted to Paula Gobbi.
 
-**Resource Curses and Production Functions: Sugar, Coffee, and Schooling in Early 20th Century Puerto Rico** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com).
-
-
 **Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec**
-
-**Treating the filles like a roi? Gender differences in child mortality in Quebec 1620--1850**
-
 
 
 ### Other work
