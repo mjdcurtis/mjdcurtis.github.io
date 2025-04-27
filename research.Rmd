@@ -55,7 +55,6 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 
 **Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec**
 
-
 ### Other work
 
 I wrote[.ado files](https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7VkrLw/view) for the ABE record linkage algorithm with [Katherine Eriksson](http://kaeriksson.ucdavis.edu/).
