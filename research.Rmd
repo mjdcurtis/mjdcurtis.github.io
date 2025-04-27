@@ -29,9 +29,7 @@ Demography (2020). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024. Historical Methods. 57, 1, p. 41-66. [DOI](https://doi.org/10.1080/01615440.2024.2368458).  [Data avaliable.](http://mjdcurtis.com/links). 
 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-[Draft PDF](./pdfs/ccc-emp-draft.pdf), 2024.  Economics and Human Biology. 54, 10 p., 101383.  [CEPR link](https://cepr.org/publications/dp17475).
-
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024.  Economics and Human Biology. 54, 10 p., 101383. [DOI](https://doi.org/10.1016/j.ehb.2024.101383).
 
 **Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com), 2024. European Review of Economic History. [DOI]( https://doi.org/10.1093/ereh/heae016).  [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf).
 
