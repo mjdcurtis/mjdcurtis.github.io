@@ -31,7 +31,7 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024.  Economics and Human Biology. 54, 10 p., 101383. [DOI](https://doi.org/10.1016/j.ehb.2024.101383).
 
-**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com), 2024. European Review of Economic History. [DOI]( https://doi.org/10.1093/ereh/heae016).  [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf).
+**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com), 2024. European Review of Economic History. [DOI]( https://doi.org/10.1093/ereh/heae016).  [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf). [Draft Appendix PDF](./pdfs/curtis-geloso-crisis-appendix-draft.pdf).
 
 **The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. 2025. Accepted at Journal of Economic History. [PDF](./pdfs/jmp-matt-curtis.pdf) . [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html). 
 
