@@ -9,7 +9,7 @@ description: |
 site: distill::distill_website
 ---
 
-![](images/curtis-cv.pdf)
+![](pdfs/cv-matt-curtis.pdf)
 
 \-\--
 
