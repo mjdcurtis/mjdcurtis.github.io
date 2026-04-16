@@ -22,43 +22,52 @@ d-title {
 ::: {}
 ### Publications
 
-**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. 2025. Accepted at Journal of Economic History. [Draft PDF](./pdfs/curtis-assortment-draft.pdf). [Draft Appendix PDF](./pdfs/curtis-assortment-draft-appendix.pdf). [IDEAS RePEc](https://ideas.repec.org/p/eca/wpaper/2013-351619.html). 
+**Academic human capital in European countries and regions, 1200–1793**
+with [David de la Croix](https://perso.uclouvain.be/david.delacroix/), [Filippo Manfredini](https://sites.google.com/view/filippomanfredini), and [Mara Vitale](https://uclep.academia.edu/MaraVitale). ***Explorations in Economic History***, Volume 101, July 2026, 101756. 
+\
+ [[Open Access](https://doi.org/10.1016/j.eeh.2026.101756)] [[Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/09/academic-human-capital-in-european-countries-and-regions-1200-1793.html)]
 
-**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com), 2024. European Review of Economic History. [DOI]( https://doi.org/10.1093/ereh/heae016).  [Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf). [Draft Appendix PDF](./pdfs/curtis-geloso-crisis-appendix-draft.pdf).
+**Seeds of Knowledge: Premodern Scholarship, Academic Fields, and European Growth**
+with [David de la Croix](https://perso.uclouvain.be/david.delacroix/). ***European Economic Review***, Volume 185, May 2026, 105299.
+\
+[[Open access](https://doi.org/10.1017/S00220507251010109)] 
+
+**The Her in Inheritance: How Marriage Matching Has Always Mattered, Quebec 1800–1970**. ***The Journal of Economic History***, Volume 86 , Issue 1 , March 2026 , pp. 38 - 66.
+\
+[[Open access](https://doi.org/10.1016/j.euroecorev.2026.105299)] 
+
+**Was There a Crisis? A Human Development Index for Lower Canada, 1760 to 1848** with [Vincent Geloso](https://vincentgeloso.com). ***European Review of Economic History*** Volume 29, Issue 2, May 2025, Pages 131–16.
+\
+[[DOI](https://doi.org/10.1093/ereh/heae016)]  [[Draft PDF](./pdfs/curtis-geloso-crisis-draft.pdf)] [[Draft Appendix PDF](./pdfs/curtis-geloso-crisis-appendix-draft.pdf)]
 
 **How did the European Marriage Pattern Persist? Social versus Familial Inheritance: England and Quebec, 1650--1850**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024.  Economics and Human Biology. 54, 10 p., 101383. [DOI](https://doi.org/10.1016/j.ehb.2024.101383).
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), ***Economics and Human Biology*** 54, 10 p., 101383.
+\ [[Open access](https://doi.org/10.1016/j.ehb.2024.101383)]
 
 **Three New Occupational Status Indices for England and Wales, 1800--1939**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024. Historical Methods. 57, 1, p. 41-66. [DOI](https://doi.org/10.1080/01615440.2024.2368458).  [Data avaliable](http://mjdcurtis.com/links). 
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/), 2024. ***Historical Methods*** 57, 1, p. 41-66. 
+\
+[[Open access](https://doi.org/10.1080/01615440.2024.2368458)]  [[Data avaliable](http://mjdcurtis.com/links)] 
 
-**The Expansion of Public Education in Puerto Rico after 1900** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com), 2023. Chapter in "Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean," edited by Felipe Valencia-Caicedo. [DOI](https://doi.org/10.1007/978-3-031-38723-4_19). [Draft PDF](curtis-uribecastro-pr-edu-draft.pdf).
+**The Expansion of Public Education in Puerto Rico after 1900** with [Mateo Uribe-Castro](https://uribecastro.wordpress.com). Chapter in "Roots of Underdevelopment: A New Economic (and Political) History of Latin America and the Caribbean," edited by Felipe Valencia-Caicedo, 2023.
+\
+[[DOI](https://doi.org/10.1007/978-3-031-38723-4_19)][[Draft PDF](curtis-uribecastro-pr-edu-draft.pdf)]
 
 
 **Twins Support the Absence of Parity-Dependent Fertility Control in Pretransition Populations**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). 
-Demography (2020). [DOI](https://doi.org/10.1007/s13524-020-00898-0).
-
-
-
-
-
-### Submitted papers
-
-**Seeds of Knowledge: Premodern Scholarship, Academic Fields, and European Growth**
-with [David de la Croix](https://perso.uclouvain.be/david.delacroix/). CEPR discussion paper DP18321, [Draft PDF](./pdfs/knowledge-growth.pdf). [CEPR link](https://cepr.org/publications/dp18321).
-
-**The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
-
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). ***Demography*** (2020) 57 (4): 1571–1595.
+\
+[Open access](https://doi.org/10.1007/s13524-020-00898-0).
 
 
 
 ### Works in progress
 ***Inheritance Customs, the European Marriage Pattern, and Female Empowerment*** with [Paula Gobbi](https://sites.google.com/site/gobbipaula/), [Marc Goñi](https://sites.google.com/site/marcgonitrafach/), and [Joanne Haddad](https://sites.google.com/view/joannehaddad/). 
-[Draft PDF](./pdfs/cggh-draft.pdf).  Funded by ERC Starting Grant 947654, IDED, granted to Paula Gobbi.
+[Draft PDF](./pdfs/cggh-draft.pdf).  
 
-**Before the Fall: Child Quantity and Quality in Pre-Demographic Transition Quebec**
+**The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
+
 
 ### Other work
 
@@ -67,4 +76,7 @@ I wrote[.ado files](https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7
 I manage the [Global Price and Income History Group website](https://gpih.ucdavis.edu/) with Peter Lindert.
 
 I wrote the [Data Appendix](https://data.nber.org/data-appendix/c13427/appendix.pdf)  for **Labor Market Polarization Over the Business Cycle** with Christopher Foote and Rich Ryan in 2014.
+
+
+Last updated: April 16th, 2026.
 ::: 
