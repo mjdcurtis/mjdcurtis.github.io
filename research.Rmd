@@ -62,11 +62,15 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 
 
 ### Works in progress
+
+***CHAOS: Converting Historical Accounts to Occupational Scores*** with [Torben Johansen](https://torbensdjohansen.github.io/), [Julius Koschnick](https://juliuskoschnick.com/), and [Christian Vedel](https://sites.google.com/view/christianvedel/).  
+
 ***Inheritance Customs, the European Marriage Pattern, and Female Empowerment*** with [Paula Gobbi](https://sites.google.com/site/gobbipaula/), [Marc Goñi](https://sites.google.com/site/marcgonitrafach/), and [Joanne Haddad](https://sites.google.com/view/joannehaddad/). 
-[Draft PDF](./pdfs/cggh-draft.pdf).  
 
 **The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
-with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346. [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
+with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346.
+\
+ [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
 
 
 ### Other work
