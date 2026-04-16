@@ -57,11 +57,15 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 **Twins Support the Absence of Parity-Dependent Fertility Control in Pretransition Populations**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). ***Demography*** (2020) 57 (4): 1571–1595.
 \
-[Open access](https://doi.org/10.1007/s13524-020-00898-0).
+[[Open access](https://doi.org/10.1007/s13524-020-00898-0)]
 
 
 
 ### Works in progress
+
+***The Antebellum Puzzle Resolved? Declining Stature as Rational Choice?*** with [Vincent Geloso](https://vincentgeloso.com).
+
+***Harmony and Dissonance: Peer Influence in Western Music Composition*** with [Karol Jan Borowiecki](https://kjb.staff.sdu.dk/index.html) and [Marc T. Law](https://sites.google.com/view/mtlaw).
 
 ***CHAOS: Converting Historical Accounts to Occupational Scores*** with [Torben Johansen](https://torbensdjohansen.github.io/), [Julius Koschnick](https://juliuskoschnick.com/), and [Christian Vedel](https://sites.google.com/view/christianvedel/).  
 
@@ -70,7 +74,7 @@ with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil 
 **The Mismeasure of Man: Why Intergenerational Occupational Mobility is Much Lower than Conventionally Measured, England, 1800--2021**
 with [Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/) and [Neil Cummins](http://neilcummins.com/). CEPR discussion paper DP17346.
 \
- [Draft PDF](./pdfs/ccc-mobility-draft.pdf). [CEPR link](https://cepr.org/publications/dp17346).
+[[Draft PDF](./pdfs/ccc-mobility-draft.pdf)] [[CEPR link](https://cepr.org/publications/dp17346)]
 
 
 ### Other work
@@ -80,7 +84,6 @@ I wrote[.ado files](https://drive.google.com/file/d/1y12GQm-fjpBJbbMS6dDPGB2s9B7
 I manage the [Global Price and Income History Group website](https://gpih.ucdavis.edu/) with Peter Lindert.
 
 I wrote the [Data Appendix](https://data.nber.org/data-appendix/c13427/appendix.pdf)  for **Labor Market Polarization Over the Business Cycle** with Christopher Foote and Rich Ryan in 2014.
-
 
 Last updated: April 16th, 2026.
 ::: 
